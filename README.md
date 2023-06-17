@@ -184,14 +184,14 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 
 1. Iniciar simulador.
 2. Visualizar los datos en el monitor serial.
-3. Colocar la temperatura y humedad dando *doble click* al sensor **DHT11** 
+3. Colocar la temperatura y humedad dando *doble click* al sensor **DHT22** 
 
 ## Resultados
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
 ![](https://github.com/ser2784/Practica-esp32-con-node-red/blob/main/Practica%20esp32%20con%20node-red%20graficos.png)
-![](https://github.com/ser2784/Practica-esp32-con-node-red/blob/main/Practica%20esp32%20con%20node-red%20diagrma%202.png)
+![](https://github.com/ser2784/Practica-esp32-con-node-red/blob/main/Practica%20esp32%20con%20node-red%20diagrama.png)
 
 
 
