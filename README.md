@@ -25,7 +25,7 @@ Para realizar esta practica necesitas lo siguiente
 ### Requisitos previos
 
 Para poder usar este repositorio necesitas entrar a la plataforma [WOKWI](https://https://wokwi.com/)
-y as la plataforma  [node-red] (http://localhost:1880/ui/#!/0?socketid=GastYhmOZGDVaQArAAAN)
+y as la plataforma  [node-red] (http://localhost:1880/ui/#!/0?socketid=GastYhmOZGDVaQArAAAN)()
  [node-red] (http://localhost:1880/#flow/33551a14c9f5e89f)
 
 
@@ -172,13 +172,13 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 }
 
 ```
-2. Instalar la libreria de **DHT sensor library for ESPx** como se muestra en la siguente imagen.
+2. Ingresamos a la plataforma **node-red** y acemos el diagrama como se muestra en la siguente imagen.
 
-![](https://github.com/DiegoJm10/PracticaDHT/blob/main/Libreria%20DHT.png?raw=true)
+![](https://github.com/ser2784/Practica-esp32-con-node-red/blob/main/Practica%20esp32%20con%20node-red%20diagrama%201.png)
 
-3. Hacer la conexion de **DHT11** con la **ESP32** como se muestra en la siguente imagen.
+3. Hacer la conexion de **node-red** con la **ESP32** como se muestra en la siguente imagen.
 
-![](https://github.com/DiegoJm10/PracticaDHT/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2008_06_2023%2011_10_20%20p.%20m.%20(2).png?raw=true)
+![]()
 
 ### Instrucciónes de operación
 
@@ -190,18 +190,18 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
-![](https://github.com/DiegoJm10/PracticaDHT/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2008_06_2023%2011_10_20%20p.%20m..png?raw=true)
-![](https://github.com/DiegoJm10/PracticaDHT/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2008_06_2023%2011_10_20%20p.%20m..png?raw=true)
+![](https://github.com/ser2784/Practica-esp32-con-node-red/blob/main/Practica%20esp32%20con%20node-red%20graficos.png)
+![](https://github.com/ser2784/Practica-esp32-con-node-red/blob/main/Practica%20esp32%20con%20node-red%20diagrma%202.png)
 
 
 
 ## Evidencias
 
-[Video de Youtube](https://https://wokwi.com/)
+[Video de Youtube](no contamos con el video ))
 
 
 # Créditos
 
-Desarrollado por Ing. Diego Jasso Miranda
+Desarrollado por Ing. Sergio RB
 
-- [GitHub](https://github.com/DiegoJm10)
+- [GitHub](https://github.com/ser2784)
