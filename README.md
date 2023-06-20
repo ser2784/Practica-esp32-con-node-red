@@ -1,7 +1,8 @@
 # Practica esp32 con node-red
-Este repositorio muestra como podemos programar una ESP32 con el sensor DHT11.
+Este repositorio muestra como podemos programar una ESP32 con el sensor DHT22.
 
 ## Introducción
+Utilizamos laplataforma Node-Red para su visualisacion
 
 ### Descripción
 
